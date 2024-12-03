@@ -1,6 +1,6 @@
 # 💻 Varsha Pillai - Exploring Tech with Passion  
 
-👋 Hi there! I’m **Varsha Pillai**, a second-year BTech CSE (IoT) student at , passionate about **coding** and **robotics**.  
+👋 Hi there! I’m **Varsha Pillai**, a second-year BTech CSE (IoT) student, passionate about **coding** and **robotics**.  
 I enjoy solving challenging problems, contributing to open-source, and working on projects that make a difference.
 
 ---
